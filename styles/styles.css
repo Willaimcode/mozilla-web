@@ -3,3 +3,12 @@ p {
   border: 1px solid black;
   width: 500px;
 }
+
+.other {
+   coler:black;
+}
+
+#kicker{
+  border:5px solid black;
+  width: 500px;
+}
